@@ -1,3 +1,17 @@
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:87CEEB,100:FFC0CB&height=200&section=header&text=Welcome%20to%20AnjinHyoung%20GitHub&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
+
+
+
+
+
+
+
+
 # Profile 👋
 
 - Name: AnJinHyoung(안진형)
@@ -11,7 +25,7 @@
 </br>
 
 
-## 👩🏻‍💻 Skills & Tools
+## 🔨 Skills & Tools
 
 - Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 - Machine Learning Library: <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/LightGBM-311E88?style=plastic&logo=LightGBM&logoColor=white"/>
@@ -21,7 +35,7 @@
 </br>
 
 
-## 🚀 **Projects**
+## 👩🏻‍💻 **Projects**
 
 - 2021.08.30 ~ 2021. 11. 08 - 대한민국 대학생 광고대회 (KOSAC) 참가
 - 2022.11.20 ~ 2023. 02. 24 - 제 1회 메타버스 인문콘텐츠 공모전(장려상)
@@ -30,8 +44,8 @@
            
 </br>
 
-## 🙋🏻‍♀️ Connect with Me
-- Email: wlsgud2075@naver.com
+## 📞 Connect with Me
+- <img src="https://img.shields.io/badge/Naver-03C75A?style=plastic&logo=Naver&logoColor=white"/>Email: wlsgud2075@naver.com
 
 <!--
 **kyungheee/kyungheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
