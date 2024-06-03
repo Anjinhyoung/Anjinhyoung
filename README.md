@@ -12,10 +12,11 @@
 </br>
 
 
-## 👩🏻‍💻 Skills & Expertise
+## 👩🏻‍💻 Skills & Tools
 
 - Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 - Machine Learning Library: <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/LightGBM-311E88?style=plastic&logo=LightGBM&logoColor=white"/>
+- Tools: <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=Visual%20Studio&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=Google%20Colab&logoColor=white"/>
 - Photo Editing: <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white"/><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe%20Illustrator&logoColor=white"/>
 
 </br>
