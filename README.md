@@ -2,7 +2,16 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:87CEEB,100:FFC0CB&height=200&section=header&text=Welcome%20to%20AnjinHyoung%20GitHub&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,100:FFC0CB&height=200&section=header&text=%20Welcome%20to%20AnjinHyoung%20GitHub%20&fontSize=50&animation=fadeIn&fontColor=ffffff)
+
+
+
+
 
 
 
