@@ -1,7 +1,6 @@
 # Profile 👋
 
 - Name: AnJinHyoung(안진형)
-- Age: 1997.06.10
 - MBTI : ISFP
 - Education: Department of Advertising at Hallym University(2017. 03. 02 ~ 2018. 02. 01)
 - Education2: Medical IT at Eulji University(2021. 03. 02 ~)
