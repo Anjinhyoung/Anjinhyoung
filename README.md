@@ -30,6 +30,7 @@
 - Interest: Metaverse, Data Analysis, Machine Learning
 - TMI: After I went to the military, I took the college entrance exam from liberal arts to natural sciences
 - TMI2: The reason why I changed from liberal arts to natural sciences was because I was interested in 'Computer'
+- Metaverse Academy 3rd class trainee
 
 </br>
 
