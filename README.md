@@ -7,14 +7,12 @@
 - Education: 한림대학교 광고학과(2017. 03. 02 ~ 2018. 02. 01)
 - Education2: 을지대학교 의료IT학과(빅데이터 인공지능 학부)(2021. 03. 02 ~)
 - Interest: Metaverse, Data Analysis, Machine Learning
-- About Me: 호기심과 도전 의식이 강해 개발 공모전, 프로젝트 이외에 메타버스와 관련된 공모전, 프로젝트를 통해 메타버스와 관련된 모든 경험을 쌓는 주니어 개발자입니다. 
-  
+- About Me: 호기심과 도전 의식이 강해 개발 공모전, 프로젝트 이외에 메타버스와 관련된 공모전, 프로젝트를 통해 메타버스와 관련된 모든 경험을 쌓는 주니어 개발자입니다.   
 </br>
 
 ## 📖 Certificate 
 
 - 정보처리기사 : 2024년 1회 필기, 실기 합격
-
 </br>
 
 ## 🔨 Skills & Tools
@@ -28,7 +26,6 @@
 - Environment: <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=plastic&logo=Windows%2011&logoColor=white" alt="Windows 11 Badge"/>
 
 - ETC: <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white"/><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe%20Illustrator&logoColor=white"/>
-
 </br>
 
 ## 👩🏻‍💻 **Projects**
