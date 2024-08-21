@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003366&height=200&section=header&text=Welcome%20to%20jinHyoung%20An's%20Metaverse&fontSize=40&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003366&height=200&section=header&text=Welcome%20to%20JinHyoung%20An's%20Metaverse&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 # Profile 👋
 
