@@ -7,8 +7,7 @@
 - Education: Department of Advertising at Hallym University(2017. 03. 02 ~ 2018. 02. 01)
 - Education2: Medical IT at Eulji University(2021. 03. 02 ~)
 - Interest: Metaverse, Data Analysis, Machine Learning
-- Metaverse Academy 3rd class trainee
-
+  
 </br>
 
 ## 📖 Certificate 
