@@ -4,9 +4,10 @@
 
 - Name: AnJinHyoung(안진형)
 - MBTI : ISFP
-- Education: 한림대학교 정치행정학과(2017. 03. 02 ~ 2018. 02. 01)
-- Education2: 을지대학교 의료it학과(빅데이터 인공지능 학부)(2021. 03. 02 ~)
+- Education: 한림대학교 광고학과(2017. 03. 02 ~ 2018. 02. 01)
+- Education2: 을지대학교 의료IT학과(빅데이터 인공지능 학부)(2021. 03. 02 ~)
 - Interest: Metaverse, Data Analysis, Machine Learning
+- 안녕하세요 
   
 </br>
 
