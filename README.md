@@ -1,25 +1,4 @@
-
-
-
-
-
-
-
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:87CEEB,100:FFC0CB&height=200&section=header&text=%20Welcome%20to%20AnjinHyoung%20GitHub%20&fontSize=50&animation=fadeIn&fontColor=ffffff)
-
-
-
-
-
-
-
-
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003366&height=200&section=header&text=Welcome%20to%20jinHyoung%20An's%20Metaverse&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
 # Profile 👋
 
@@ -28,18 +7,13 @@
 - Education: Department of Advertising at Hallym University(2017. 03. 02 ~ 2018. 02. 01)
 - Education2: Medical IT at Eulji University(2021. 03. 02 ~)
 - Interest: Metaverse, Data Analysis, Machine Learning
-- TMI: After I went to the military, I took the college entrance exam from liberal arts to natural sciences
-- TMI2: The reason why I changed from liberal arts to natural sciences was because I was interested in 'Computer'
 - Metaverse Academy 3rd class trainee
 
 </br>
 
-
-
 ## 📖 Certificate 
 
 - 정보처리기사 : 2024년 1회 필기, 실기 합격
-
 
 </br>
 
