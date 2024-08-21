@@ -20,7 +20,7 @@
 
 ## 🔨 Skills & Tools
 
-- Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C%20Sharp&logoColor=white"/>
+- Programming Languages: <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=C%20Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>
 
 - Framework/Library: <img src="https://img.shields.io/badge/Scikit%20learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/LightGBM-311E88?style=plastic&logo=LightGBM&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white"/>
 
