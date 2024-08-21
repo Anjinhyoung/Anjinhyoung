@@ -3,11 +3,11 @@
 # Profile 👋
 
 - Name: AnJinHyoung(안진형)
-- MBTI : ISFP
+- MBTI: ISFP
 - Education: 한림대학교 광고학과(2017. 03. 02 ~ 2018. 02. 01)
 - Education2: 을지대학교 의료IT학과(빅데이터 인공지능 학부)(2021. 03. 02 ~)
 - Interest: Metaverse, Data Analysis, Machine Learning
-- 안녕하세요 
+- About Me: 호기심과 도전 의식이 강해 개발 공모전, 프로젝트 이외에 메타버스와 관련된 공모전, 프로젝트를 통해 메타버스와 관련된 모든 경험을 쌓는 주니어 개발자입니다. 
   
 </br>
 
