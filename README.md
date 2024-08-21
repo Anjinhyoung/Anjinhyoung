@@ -31,8 +31,6 @@
 
 </br>
 
-[![gitanimals](https://render.gitanimals.org/farms/zzsza)](https://github.com/devxb/gitanimals)
-
 ## 👩🏻‍💻 **Projects**
 
 - 2021.08.30 ~ 2021.11.08 - 대한민국 대학생 광고대회 (KOSAC) 참가
