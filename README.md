@@ -26,6 +26,8 @@
 
 - Tooling/DevOps: <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=Visual%20Studio&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=Google%20Colab&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
 
+- Environment: <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=plastic&logo=Windows%2011&logoColor=white" alt="Windows 11 Badge"/>
+
 - ETC: <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=white"/><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=plastic&logo=Adobe%20Illustrator&logoColor=white"/>
 
 </br>
