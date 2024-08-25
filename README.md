@@ -2,7 +2,7 @@
 
 # Portfolio 
 
-- <a href="https://www.notion.so/Welcome-to-JinHyoung-Metaverse-14bbb1b3cd01442bb8858266e55092c2">AnJinHyoung Notion Portfolio</a>
+- <a href="https://momentous-dancer-30d.notion.site/Welcome-to-JinHyoung-Metaverse-14bbb1b3cd01442bb8858266e55092c2">AnJinHyoung Notion Portfolio</a>
 
 
 # Profile 👋
