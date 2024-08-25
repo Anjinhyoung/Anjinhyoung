@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003366&height=200&section=header&text=Welcome%20to%20JinHyoung%20An's%20Metaverse&fontSize=40&animation=fadeIn&fontColor=ffffff)
 
-# Portfolio 📃
+# Portfolio 
 
-- <a href="https://www.notion.so/Welcome-to-JinHyoung-Metaverse-14bbb1b3cd01442bb8858266e55092c2">Notion Portfolio</a>
+- <a href="https://www.notion.so/Welcome-to-JinHyoung-Metaverse-14bbb1b3cd01442bb8858266e55092c2">AnJinHyoung Notion Portfolio</a>
 
 
 # Profile 👋
