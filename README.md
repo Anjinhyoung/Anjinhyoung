@@ -41,6 +41,7 @@
 - 2023.07.10 ~ 2023.08.18 - 새만금 공공·빅데이터 활용 공모전 참가
 - 2023.09.01 ~ 2024.06.30 - JKAIA 논문 게재 <a href="https://accesson.kr/jkaia/v.2/1/1/43571">Creating a Smartphone User Recommendation System Using Clustering</a>
 - 2024.07.29 ~ 2024.08.16 - <a href="https://youtu.be/Gxn_cV9L-rY">리썰 컴퍼니 모작</a>
+- 2024.08.26 ~ 2024.09.27 - 3차원 가상 회의 플랫폼 제작
 </br>
 
 ## 📞 Connect with Me
